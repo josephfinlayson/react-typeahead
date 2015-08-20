@@ -181,7 +181,7 @@ This component receives the following props :
 
 ##### Passed through
 
-- `props.displayOptions`
+- `props.displayOption`
 - `props.customClasses`
 - `props.onOptionSelected`
 
